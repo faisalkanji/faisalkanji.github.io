@@ -1,4 +1,4 @@
-# Welcome to My Page
+### Welcome to My Page
 
 This page exists to organize and explain the work i've displayed on my github profile.  
 
